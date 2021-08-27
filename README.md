@@ -1,5 +1,5 @@
-# React Material Ui V5 - Dark, Light, & Custom palette Theme
-Créer un  gestionnaire de thème Dark/Light & votre custom palette sous React et Material Ui via des contextes, dispatch, etc.
+# React-material-ui-dark-light-custom-theme
+Créer un  gestionnaire de thème Dark,Light & Custom via palettes sous React et Material Ui via des contextes, dispatch, etc.
 
 Article entier disponible ici :
 [DeeplyLearning - Dark, Light, & Custom palette Theme](https://deeplylearning.fr/cours-web-frontend-react/dark-light-custom-theme-avec-react-material-ui/)  
